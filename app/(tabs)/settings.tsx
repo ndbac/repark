@@ -1,9 +1,9 @@
 import { StyleSheet, View, Text } from "react-native";
 
-export default function MapScreen() {
+export default function SettingsScreen() {
   return (
     <View style={styles.container}>
-      <Text>Map</Text>
+      <Text>Settings</Text>
     </View>
   );
 }
